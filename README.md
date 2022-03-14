@@ -12,9 +12,8 @@ Engineer | Data Scientist | Studing Big Data at IMF buseiness School
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jcschjaer/) or by Email juancschjaer@gmail.com 
 
-👨🏻‍🎓 This is my  CV [-> CV juan](file:///C:/Users/juanS/OneDrive/Escritorio/Master%20IMF/Juan%20schjaer-CV.pdf). 
-
 🎧 I love music, check my [Spotify](https://open.spotify.com/user/11101271687?si=bf324107d9c54254).
 
-
 Languages and Tools:
+
+[Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) [MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) [GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg)
