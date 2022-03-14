@@ -16,4 +16,5 @@ Engineer | Data Scientist | Studing Big Data at IMF buseiness School
 
 Languages and Tools:
 
-[Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) [MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) [GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg)
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+
