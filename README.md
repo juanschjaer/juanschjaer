@@ -10,15 +10,11 @@ Engineer | Data Scientist | Studing Big Data at IMF buseiness School
 
 💬 Ask me about any tech-related stuff.
 
-📫 How to reach me: https://www.linkedin.com/in/jcschjaer/ or by Email juancschjaer@gmail.com 
-
-🧑🏻‍💻 C/C++ and Ada developer working in Air Traffic Management automation.
-
-🌱 Currently learning Angular, NestJS, PostgreSQL and Machine Learning at 42Madrid.
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jcschjaer/) or by Email juancschjaer@gmail.com 
 
 👨🏻‍🎓 This is my  CV [-> CV juan](file:///C:/Users/juanS/OneDrive/Escritorio/Master%20IMF/Juan%20schjaer-CV.pdf). 
 
-🎧 I love music, check my Spotify https://open.spotify.com/user/11101271687?si=01eb099026784c83.
+🎧 I love music, check my [Spotify](https://open.spotify.com/user/11101271687?si=bf324107d9c54254).
 
 
 Languages and Tools:
